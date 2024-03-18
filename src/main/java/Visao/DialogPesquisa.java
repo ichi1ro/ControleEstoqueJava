@@ -42,7 +42,7 @@ public class DialogPesquisa extends javax.swing.JDialog {
         jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Pesuisa de produtos");
+        setTitle("Pesquisa de produtos");
 
         jLabel6.setFont(new java.awt.Font("HelveticaNeue", 1, 18)); // NOI18N
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
